@@ -5,9 +5,10 @@ import React from "react";
 const AppHeader = ({}) => {
   
   return (
-  <Head>
-      
-  </Head>);
+    <Head>
+        
+    </Head>
+  );
 };
 
 
